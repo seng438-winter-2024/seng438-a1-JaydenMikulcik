@@ -54,7 +54,9 @@ https://docs.google.com/spreadsheets/d/16qokWTbmmYS8qSWSZK9tQz2gKNsEY_-cvs_1UqQv
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+  While undergoing peer reviews as advised in the guide to this lab our group was able to come up with more comprehensive and full understandings of the bugs and requirements of the ATM machine. Allowing a second set of eyes to overlook the requirements of the ATM made missing the bugs a lot less likely in testing. One example of this was when one of our group members (Jayden) was testing test 14 in the Manual Scripting Testing and missed that the expected output did not match. The partner doing the pier review with him (Ryan) was able to spot that the expected output was not the same. 
+
+  Another benefit of using the peer review was allowing all testers to be exposed to more of the ATM system giving each a more complete and rounded understanding of the requirements of the ATM. Our overall notes on the implementation of peer review was greatly positive and the discussions we underwent when doing our review was essential in catching all the bugs and completing an accurate report. 
 
 # How the pair testing was managed and team work/effort was divided 
 
