@@ -23,11 +23,9 @@
 
 [4 Notes and discussion of the peer reviews of defect reports	1](#_Toc439194680)
 
-[5 How the pair testing was managed and team work/effort was
-divided	1](#_Toc439194681)
+[5 How the pair testing was managed and team work/effort was divided	1](#_Toc439194681)
 
-[6 Difficulties encountered, challenges overcome, and lessons
-learned	1](#_Toc439194682)
+[6 Difficulties encountered, challenges overcome, and lessons learned	1](#_Toc439194682)
 
 [7 Comments/feedback on the lab and lab document itself	1](#_Toc439194683)
 
@@ -60,11 +58,13 @@ Text…
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+To streamline our testing process, we divided our group into two teams, each including two members (pair). This division of tasks allowed for one member to focus on actively testing the application, while the other is in charge of recording the outcomes of each tests, dictating wether they pass or is considered a bug. In the event of a filed test (bug), that member will be in charge or writing down the actual outcome that differs from the expected and, if available, the system log. 
+
+Each pair does something similar, and in our case for this assignment, we "duplicated" our tests in terms of each pair doing the exploratory, MFT and regression. Having two groups doing the same type of testing, we were able to get majority of the validation of tests to make sure that we didn't miss one or mistakenly logged a bug that was actually a pass. 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+As mentioned earlier, one of the difficulties was the validation but was solved through having both pairs working on the same tests. Having two different "perspectives" to work on the same test allowed us to see the mistakes that we may have encountered, such as test being false positives/negatives. Through this, we were able to overcome this challenge and learned that this may be good validation of testing as both pairs were confident in the end of each type of testing. 
 
 # Comments/feedback on the lab and lab document itself
 
